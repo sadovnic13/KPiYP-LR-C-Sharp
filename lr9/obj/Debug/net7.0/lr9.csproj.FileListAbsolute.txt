@@ -1,0 +1,14 @@
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\bin\Debug\net7.0\lr9.exe
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\bin\Debug\net7.0\lr9.deps.json
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\bin\Debug\net7.0\lr9.runtimeconfig.json
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\bin\Debug\net7.0\lr9.dll
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\bin\Debug\net7.0\lr9.pdb
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.GeneratedMSBuildEditorConfig.editorconfig
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.AssemblyInfoInputs.cache
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.AssemblyInfo.cs
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.csproj.CoreCompileInputs.cache
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.dll
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\refint\lr9.dll
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.pdb
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\lr9.genruntimeconfig.cache
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr9\obj\Debug\net7.0\ref\lr9.dll

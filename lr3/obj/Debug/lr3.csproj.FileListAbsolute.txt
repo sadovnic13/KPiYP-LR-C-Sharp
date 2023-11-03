@@ -1,0 +1,7 @@
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\bin\Debug\lr3.exe.config
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\bin\Debug\lr3.exe
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\bin\Debug\lr3.pdb
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\obj\Debug\lr3.exe
+D:\German\C#\Projects\LR\all_lr_KPiYP\lr3\obj\Debug\lr3.pdb
